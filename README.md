@@ -1,2 +1,2 @@
-# IBM-Data-Sicence-pro-certificate
+# IBM-Data-Sicence-pro-certificate-Assignments
 My coursework
